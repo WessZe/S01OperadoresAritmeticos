@@ -86,12 +86,12 @@ public class S01OperadoresAritmeticos {
                     break;
 
                 case 5:
-                    if (opcion == 5) {
+               
                         System.out.println("--------------------------------------------");
                         System.out.println("Gracias Por Utilizar Calculadora Aritmetica");
                         System.out.println("--------------------------------------------");
                         comodin = 2;
-                    }
+                    
             }
         } while (comodin != 2);
 
